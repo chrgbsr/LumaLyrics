@@ -4,15 +4,6 @@
 
 ![LumaLyrics Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvDPLKKO28K6ypR2v1AdIpukMhr_uHWrjcQRX5tTpivXHdH83Py4bhshlLXmiRNZC1A3lXlKKfKOmYBKaLshnR5vS2lDZSFQ2QnCwvs9T7vGKbzNSYvn1EiW9ez0I7ENeRLu4oj4exR6jxMeSKHQ8yx5Sqd54coP3Ns7aFR-VmcuEjBmLPG_gpskKmc_LQ/s16000/banner.png)
 
----
-
-## 📖 Table of Contents
-- [Features](#-features)
-- [Availability](#-availability)
-- [Visual Effects](#-visual-effects)
-- [Keyboard Shortcuts](#-keyboard-shortcuts)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -80,4 +71,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">Crafted with ❤️ by <a href="https://github.com/chrgbsr">@Chrg_Bsr</a></p>
+
 
