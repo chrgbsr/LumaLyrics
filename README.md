@@ -9,7 +9,6 @@
 ## 📖 Table of Contents
 - [Features](#-features)
 - [Availability](#-availability)
-- [Installation](#-installation)
 - [Visual Effects](#-visual-effects)
 - [Keyboard Shortcuts](#-keyboard-shortcuts)
 - [Contributing](#-contributing)
@@ -81,3 +80,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">Crafted with ❤️ by <a href="https://github.com/chrgbsr">@Chrg_Bsr</a></p>
+
