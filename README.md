@@ -14,24 +14,6 @@
 ⚡ **Power Shortcuts** - Full keyboard control for a seamless, mouse-free experience.
 🖥️ **Full-Screen Optimization** - Designed to look stunning on displays of all sizes.
 
----
-
-## 🌍 Availability
-LumaLyrics is available for all major desktop browsers:
-
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/yt-music-lyrics-sync/cfcaoihkhllfodjpimfelpjklifjadmp">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioqW_eZIjDVf9DYtU69SeFx124I46h9kmZWGnUIwL-4Hj7R3x6pYFpGEy3B7F5W57t2WSBzizypzrjHkHBEd-gl1TxOgOvjMOAqMBvsaCk1jbEEtP8FPtYfgaawrYe7n_Y2VPM09QIQIJ7ul0mfRk5ihxVIkoxA4Kc-wPuzKkXtRxql_blOewJ31Agpz7d/s320/cdownload.png" width="160" alt="Chrome Download">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://microsoftedge.microsoft.com/addons/detail/lumalyrics-for-yt-music/jbnegbdkmoailoafcdhpncmocpihblli">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOxtUdeUu-zLqtHDxJ_2F5ghw2WLkiEo5z8XUzo0_heYv5JwG6X5gS6PYTrJgC9BgKV9jAcfuZFWZ6eaxskB6g-voXunQKzoSS8yX9wbQtMhV9Jzz3chuf-fpEziR-Icv1WDQabQlrWHObMOyOlIIs7dcjGvE6wQqh3enE3omv4LpE6rWmEEAqgyw_O3EW/s320/eddownload.png" width="160" alt="Edge Download">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/lumalyrics-for-yt-music/">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEyVp46AXFoAESfYXMTBQtG55S8sZlZ_Z5TjDWEt27wjCOkAZrRiAN8fnlOqMyWMlLmU-LZu9kKtvWgNAoS8s7MYQolJOrxbOGS_pnKNfTQfaoKH5ubPQwhk9aMQgVRZEOWxjalIJ9_tC-giqTZPa1tI9SkpWrd1XYn80Owy8_u4HYk3ugNClJXyKJgfEr/s320/fdownloaddd.png" width="160" alt="Firefox Download">
-  </a>
-</p>
 
 ---
 
@@ -54,6 +36,26 @@ LumaLyrics offers multiple "Live Environments" to match your mood:
 
 ---
 
+## 🌍 Availability
+LumaLyrics is available for all major desktop browsers:
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/yt-music-lyrics-sync/cfcaoihkhllfodjpimfelpjklifjadmp">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioqW_eZIjDVf9DYtU69SeFx124I46h9kmZWGnUIwL-4Hj7R3x6pYFpGEy3B7F5W57t2WSBzizypzrjHkHBEd-gl1TxOgOvjMOAqMBvsaCk1jbEEtP8FPtYfgaawrYe7n_Y2VPM09QIQIJ7ul0mfRk5ihxVIkoxA4Kc-wPuzKkXtRxql_blOewJ31Agpz7d/s320/cdownload.png" width="160" alt="Chrome Download">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://microsoftedge.microsoft.com/addons/detail/lumalyrics-for-yt-music/jbnegbdkmoailoafcdhpncmocpihblli">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOxtUdeUu-zLqtHDxJ_2F5ghw2WLkiEo5z8XUzo0_heYv5JwG6X5gS6PYTrJgC9BgKV9jAcfuZFWZ6eaxskB6g-voXunQKzoSS8yX9wbQtMhV9Jzz3chuf-fpEziR-Icv1WDQabQlrWHObMOyOlIIs7dcjGvE6wQqh3enE3omv4LpE6rWmEEAqgyw_O3EW/s320/eddownload.png" width="160" alt="Edge Download">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/lumalyrics-for-yt-music/">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEyVp46AXFoAESfYXMTBQtG55S8sZlZ_Z5TjDWEt27wjCOkAZrRiAN8fnlOqMyWMlLmU-LZu9kKtvWgNAoS8s7MYQolJOrxbOGS_pnKNfTQfaoKH5ubPQwhk9aMQgVRZEOWxjalIJ9_tC-giqTZPa1tI9SkpWrd1XYn80Owy8_u4HYk3ugNClJXyKJgfEr/s320/fdownloaddd.png" width="160" alt="Firefox Download">
+  </a>
+</p>
+
+---
+
+
 ## 🤝 Contributing
 Contributions are welcome! If you have ideas for new visual effects or features, feel free to open an issue or submit a pull request.
 
@@ -71,5 +73,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">Crafted with ❤️ by <a href="https://github.com/chrgbsr">@Chrg_Bsr</a></p>
+
 
 
